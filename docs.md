@@ -9,4 +9,8 @@ This is the third paragraph. This is the first change to this file.
 Lesson 24 (pull) -- Editing this file from github directly; practicing changes from different sources /local edit vscode/ 
 Lesson 24 (pull) -- Editing this file from github directly; practicing changes from different sources /edit from github/ 
 
+<<<<<<< Updated upstream
 toothbrush requires 
+=======
+Right now I'm in the middle of working on this fil 
+>>>>>>> Stashed changes
